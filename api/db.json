@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "MyStrim",
+      "description": "Dis Strimm gret",
+      "id": 1
+    },
+    {
+      "title": "MyStrim",
+      "description": "Dis Strimm gre",
+      "id": 2
+    },
+    {
+      "title": "Other Strimm",
+      "description": "Hi strimm",
+      "id": 3
+    }
+  ]
+}
